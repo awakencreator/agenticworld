@@ -1,59 +1,31 @@
 {
   "models": [
     {
-      "id": "o1",
+      "id": "gpt-5",
       "provider": "OpenAI",
       "providerId": "openai",
-      "name": "o1",
+      "name": "GPT-5",
       "multiModal": true
     },
     {
-      "id": "o3-mini",
+      "id": "gpt-4.1",
       "provider": "OpenAI",
       "providerId": "openai",
-      "name": "o3 mini",
-      "multiModal": false
-    },
-    {
-      "id": "gpt-4.5-preview",
-      "provider": "OpenAI",
-      "providerId": "openai",
-      "name": "GPT-4.5",
+      "name": "GPT-4.1",
       "multiModal": true
     },
     {
-      "id": "gpt-4o",
-      "provider": "OpenAI",
-      "providerId": "openai",
-      "name": "GPT-4o",
-      "multiModal": true
-    },
-    {
-      "id": "gpt-4o-mini",
-      "provider": "OpenAI",
-      "providerId": "openai",
-      "name": "GPT-4o Mini",
-      "multiModal": true
-    },
-    {
-      "id": "claude-3-7-sonnet-latest",
+      "id": "claude-opus-4-1-20250805",
       "provider": "Anthropic",
       "providerId": "anthropic",
-      "name": "Claude 3.7 Sonnet",
+      "name": "Claude Opus 4.x",
       "multiModal": true
     },
     {
-      "id": "claude-3-5-sonnet-latest",
+      "id": "claude-sonnet-4-20250514",
       "provider": "Anthropic",
       "providerId": "anthropic",
-      "name": "Claude 3.5 Sonnet",
-      "multiModal": true
-    },
-    {
-      "id": "claude-3-5-haiku-latest",
-      "provider": "Anthropic",
-      "providerId": "anthropic",
-      "name": "Claude 3.5 Haiku",
+      "name": "Claude Sonnet 4",
       "multiModal": true
     }
   ]
